@@ -15,5 +15,8 @@ README.md
 <h4>some images to put a bit of spirit to boring page</h4>
 <p align="center">
   <img src="/img/image03.png" width="350"/>
-  <img src="/img/image04.png" width="350"/>
+  <br>
+  <img src="/img/image04.png" width="150"/>
+  <br>
+  <img src="/img/image05.png" width="550"/>
 </p>
